@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CollapseLevels"]
+	path = CollapseLevels
+	url = https://github.com/cran/CollapseLevels
+	shallow = true
+	registered = true
